@@ -28,7 +28,6 @@ class String
 
   def count_sentences
     # binding.pry
-    arr = self.split(/[.?!]/).select { |string| string != ""}
-    arr.length
+    arr = self.split(/[.?!]/).select { |string| string != ""}.length
   end
 end
