@@ -1,0 +1,11 @@
+Categorizing Class Methods
+Copy this table into a text file (vscode will work fine for this)
+Categorize each of the following things as either a class method or an instance method by replacing each "->" with a "#" for instance methods and a "." for class methods
+When you're finished, get with a partner and compare your conclusions. Discuss any differences between your answers and how you arrived at the conclusions you did.
+Name	Desc.
+Square # area	Returns the area of a square
+Square . overlap	Returns the area of the overlap of two or more squares
+Square # width	Returns the width of a square
+Square . totalArea	Returns the total area of all squares
+Square . largest	Returns the largest instance of a square
+Square # height	Returns the height of a square
